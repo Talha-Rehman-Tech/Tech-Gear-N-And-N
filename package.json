@@ -1,0 +1,13 @@
+{
+  "name": "mobile-accessories-ecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend start",
+    "backend": "npm --prefix backend start",
+    "seed": "node backend/seed.js"
+  }
+}
+
