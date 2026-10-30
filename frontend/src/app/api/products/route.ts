@@ -60,3 +60,4 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ message: 'Invalid product data' }, { status: 400 });
   }
 }
+

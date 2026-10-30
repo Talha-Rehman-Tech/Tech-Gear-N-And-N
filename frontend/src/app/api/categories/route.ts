@@ -15,3 +15,4 @@ export const CATEGORIES = [
 export async function GET() {
   return NextResponse.json(CATEGORIES);
 }
+

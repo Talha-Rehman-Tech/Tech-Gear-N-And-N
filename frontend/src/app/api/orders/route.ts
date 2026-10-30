@@ -39,3 +39,4 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ message: 'Failed to place order' }, { status: 500 });
   }
 }
+
