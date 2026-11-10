@@ -58,14 +58,11 @@ export default function Footer() {
                 <span>&copy; {new Date().getFullYear()} TechGear. All rights reserved.</span>
                 <span className="hidden sm:inline text-gray-300">•</span>
                 <span className="font-medium text-gray-700">
-                  Made with <span className="text-red-500">❤️</span> by <strong className="text-gray-900 font-bold">Talha Rehman</strong> &amp; <strong className="text-gray-900 font-bold">Rana Ali</strong>
+                  Project by <strong className="text-gray-900 font-bold">Nadeem Nazir and Associates</strong>
                 </span>
               </div>
 
               <div className="flex flex-wrap items-center justify-center gap-3">
-                <span className="text-xs font-semibold text-blue-700 bg-blue-50 px-3 py-1 rounded-full border border-blue-200/60 shadow-2xs">
-                  🎓 Project Assigned by <strong className="font-extrabold text-blue-950">Dr. Nadeem Nazir</strong> Sir
-                </span>
                 <span className="text-xs font-semibold text-emerald-700 bg-emerald-50 px-3 py-1 rounded-full border border-emerald-200/60 shadow-2xs">
                   ✓ Cash on Delivery Available
                 </span>
