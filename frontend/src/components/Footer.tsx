@@ -58,7 +58,7 @@ export default function Footer() {
                 <span>&copy; {new Date().getFullYear()} TechGear. All rights reserved.</span>
                 <span className="hidden sm:inline text-gray-300">•</span>
                 <span className="font-medium text-gray-700">
-                  Project by <strong className="text-gray-900 font-bold">Nadeem Nazir and Associates</strong>
+                  Project by <strong className="text-gray-900 font-bold">Dr Nadeem Nazir and Associates</strong>
                 </span>
               </div>
 
